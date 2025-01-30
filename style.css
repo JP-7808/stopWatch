@@ -31,9 +31,24 @@ body {
     font-size: 1rem;
     transition: background 0.3s;
 }
-.start { background: #28a745; color: white; }
-.stop { background: #dc3545; color: white; }
-.reset { background: #007bff; color: white; }
-.start:hover { background: #218838; }
-.stop:hover { background: #c82333; }
-.reset:hover { background: #0056b3; }
+.start { 
+    background: #28a745; 
+    color: white; 
+}
+.stop { 
+    background: #dc3545; 
+    color: white; 
+}
+.reset { 
+    background: #007bff; 
+    color: white; 
+}
+.start:hover { 
+    background: #218838; 
+}
+.stop:hover { 
+    background: #c82333; 
+}
+.reset:hover { 
+    background: #0056b3; 
+}
